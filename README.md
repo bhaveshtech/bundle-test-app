@@ -106,3 +106,4 @@ To learn more about the Shopify CLI, take a look at the following resources:
 ## Deploy your app
 
 The easiest way to deploy your Shopify CLI app is to follow their docs for deploying on [Heroku or Fly.io](https://shopify.dev/apps/deployment/web).
+# bundle-test-app
