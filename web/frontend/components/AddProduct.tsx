@@ -1,4 +1,4 @@
-import { ShopifyProductVariant } from "@gadget-client/bundle-tutorial";
+import { ShopifyProductVariant } from "@gadget-client/bundle-hay";
 import { useFindMany } from "@gadgetinc/react";
 import { Button, Collapsible, Select, SelectOption, Spinner, Stack, Subheading, TextField } from "@shopify/polaris";
 import { api } from "../api/gadget";

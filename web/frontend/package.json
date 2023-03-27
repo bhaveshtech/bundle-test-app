@@ -12,7 +12,7 @@
     "node": ">= 12.16"
   },
   "dependencies": {
-    "@gadget-client/bundle-tutorial": "^1.1806.0",
+    "@gadget-client/bundle-hay": "^1.63.0",
     "@gadgetinc/react": "^0.10.0",
     "@gadgetinc/react-shopify-app-bridge": "^0.8.0",
     "@shopify/app-bridge": "^3.1.0",

@@ -1,4 +1,4 @@
-import { ShopifyProductVariant, StoredFileInput } from "@gadget-client/bundle-tutorial";
+import { ShopifyProductVariant, StoredFileInput } from "@gadget-client/bundle-hay";
 import { useAction, useFindMany } from "@gadgetinc/react";
 import { useNavigate } from "@shopify/app-bridge-react";
 import {
@@ -314,7 +314,7 @@ export default function CreateBundle() {
             ))}
             <Stack>
               <Button onClick={addProduct} disabled={isSaving}>
-                Add product
+                Add products
               </Button>
               <Button submit primary disabled={bundle.title === "" || bundle.products.length === 0 || isSaving}>
                 Save bundle

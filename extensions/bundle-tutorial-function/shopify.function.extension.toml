@@ -1,6 +1,6 @@
 name = "bundle-tutorial-function"
 type = "product_discounts"
-api_version = "2022-07"
+api_version = "2022-10"
 
 [build]
 command = "npm run asbuild:release"
